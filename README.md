@@ -1,1 +1,1 @@
-icodiagram first commit
+ico-tickertape first commit
