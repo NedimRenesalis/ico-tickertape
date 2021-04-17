@@ -1,1 +1,1 @@
-ico-tickertape first commit
+ico-tickertape is an alternative ico listing calender
